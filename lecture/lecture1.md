@@ -1,7 +1,7 @@
 Snow Man(가제)
 =======================
 * 초기안 ppt
-![ppt](https://github.com/isp829/HU/blob/master/images/lecture1/thatmustache.jpg) 
+
 
 
 
