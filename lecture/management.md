@@ -1,7 +1,18 @@
 기획
 ================================  
 ------------------------------------------    
-[5월 6일 설문조사 내용](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.pdf)   
+5월 6일 기획팀 설문 내용  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_1.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_2.png)
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_3.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_4.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_5.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_6.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_7.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_8.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_9.png)  
+![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_10.png)  
+-----------------------    
 <설문 결과 정리>  
 
 편의상 반말체를 쓰겠습니다!  
