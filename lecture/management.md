@@ -8,4 +8,8 @@
  
 
 ------------------------------------
+[05.18. 맵디자인](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/m5.18.md)   
+    
+
+------------------------------------
 [목차로](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/README.md)    
