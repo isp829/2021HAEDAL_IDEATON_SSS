@@ -1,61 +1,11 @@
 기획
 ================================  
 ------------------------------------------    
-5월 6일 기획팀 설문 내용  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_1.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_2.png)
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_3.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_4.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_5.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_6.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_7.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_8.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_9.png)  
-![](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/lecture/management/05.06%20%EA%B8%B0%ED%9A%8D.png/05.06%20%EA%B8%B0%ED%9A%8D_10.png)  
------------------------    
-<설문 결과 정리>  
+[5월 6일 기획팀 설문 내용]()  
 
-편의상 반말체를 쓰겠습니다!  
-
-1. 2안=3안  
-
-3안이 흥미롭고 구체적이라는 평임. 하지만 실제 제작 담당인 기획, 디자인의 능력이 파악안되며 초심자도 많을거라 예상됨. 3안은 능력이 되면 하고싶지만 안정적인 선택으로서 2안으로 결정  
-
-2.수평형 플랫폼, 일회차 플레이  
-
-플랫폼 형태 선호도는 비슷해보이지만 일단 우세한 수평형으로 결정, 다회차 플레이의 경우 작업량이 많아지기 때문에 1회차로 조정  
-
-3. 게임 방식  
-1) 장애물(사다리, 패널티를 부여하는 장애물)  
-Ex. 슬라임 : 밟으면 5초 감속 / 빙판길 : 미끄러지며 추락사  
-
-2) 이단점프, 대쉬  
-3) hp바 -> 장애물 피격 데미지 누적시 사망(하트 카운트 방식으로 해도 괜찮을 듯함)  
-
-4. 시나리오+대사 / 맵 디자인  
-저는 기획만하니 둘 다 참여합니다!  
-(시나리오+대사)  
-조지원, 박세준, 최진우  
-(맵 디자인(장애물, 지형))  
-박인수, 김수연, 강민조  
-
-5. 기타 의견  
-대부분 모여서 회의할 필요가 있다는 의견이 많았습니다. 6월 말부터 하루 확진자 1000명 미만시 8인이상을 허용하나 그 이전까지는 5인이상 집합금지로 저희 모두 모이기는 불가능합니다.   
-따라서 당장 급한 시나리오 팀만 모이기로하고 맵디자인도 필요시 모이겠습니다.  
 ------------------------------------  
-<05.12. 시나리오> 
+[05.12. 시나리오]() 
 
-[05.12 시나리오.pdf](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/files/6465901/05.12.pdf)
-
-안녕하세요! 시나리오 의견 받고자 왔습니다. 일단 원래 작업하던 시나리오가 있었는데.. 저희 목적이 부트캠프때 발표인걸 생각했을때.. 너무 플레이타임에 비해 스토리가 길어져서 하던걸 갈아엎었습니다!
-
-분기점이나 대사는 없고 주제 하나로 게임 진행될 듯 합니다!
-일단 빠른 진행을 위해 큰 틀은 짜왔고 여기서 다듬을 부분, 수정할 부분, 다른 시나리오 제안등을 1차적으로 기획팀에서 받을 생각입니다.
-오늘까지 딱히 의견 없으면 2차적으로 전체 톡방에 올려서 다른 개발/디자인 분 의견도 받은 뒤에, 다른 의견 없으면 최종적으로 이 둘 중에 하나 하겠습니다. 감사합니다. 즐거운 저녁 보내세요!
-
-![05_12_01](https://user-images.githubusercontent.com/80496808/117971157-78387700-b364-11eb-9f53-24b60ed5549e.JPG)
-![05_12_02](https://user-images.githubusercontent.com/80496808/117971305-ac139c80-b364-11eb-8a34-29a85a1a254e.JPG)
-![05_12_03](https://user-images.githubusercontent.com/80496808/117971320-b03fba00-b364-11eb-8853-cfc08e624367.JPG)
 
 ------------------------------------
 [목차로](https://github.com/isp829/2021HAEDAL_IDEATON_SSS/blob/master/README.md)    
